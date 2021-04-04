@@ -8,3 +8,4 @@ written with Hackmd.io and markdown
 3. searching algorithm
 4. tf-idf
 5. sequential pattern mining
+6. sequential pattern mining verison2 -- One pass
