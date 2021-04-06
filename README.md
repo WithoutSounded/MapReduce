@@ -7,5 +7,5 @@ written with Hackmd.io and markdown
 2. sorting algorithm
 3. searching algorithm
 4. tf-idf
-5. sequential pattern mining
-6. sequential pattern mining verison2 -- One pass
+5. sequential pattern mining (a.k.a activity pattern mining, in short apm)
+6. sequential pattern mining verison2 -- One pass (a.k.a activity pattern mining, in short apm)
